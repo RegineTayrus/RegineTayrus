@@ -10,11 +10,11 @@
 
 I am an **Bachelor of Science in Computer Science** at **Tangub City Global College** who loves technology and enjoys creating simple, meaningful applications. I am hardworking, eager to learn, and passionate about using technology to solve everyday problems in my community.
 
-- 🎓 **School:** Tangub City Global College
-- 📍 **Location:** Tangub City, Philippines 🇵🇭
-- 🌱 **Currently Learning:** Web Development, Object-Oriented Programming
-- 💡 **Interests:** App Development, Local Tech Solutions, UI Design
-- 📬 **Email:** tayrusregine21@gmail.com
+-  **School:** Tangub City Global College
+-  **Location:** Tangub City, Philippines 🇵🇭
+-  **Currently Learning:** Web Development, Object-Oriented Programming
+-  **Interests:** App Development, Local Tech Solutions, UI Design
+-  **Email:** tayrusregine21@gmail.com
 
 ---
 
@@ -33,7 +33,7 @@ I am an **Bachelor of Science in Computer Science** at **Tangub City Global Coll
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 
 ### 🛒 Online Ordering Website for Local Product Businesses in Tangub City
 > **Purpose:** To make buying and selling easier by allowing customers to order products online and helping local businesses in Tangub City reach more customers and increase their sales.
@@ -44,7 +44,7 @@ I am an **Bachelor of Science in Computer Science** at **Tangub City Global Coll
 
 ---
 
-### 📚 StudyVault
+###  StudyVault
 > **Purpose:** To provide students with an organized digital space where they can store, access, and manage their study materials easily.
 
 - Store notes, files, and resources in one place
@@ -53,7 +53,7 @@ I am an **Bachelor of Science in Computer Science** at **Tangub City Global Coll
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reginetayrus&show_icons=true&theme=tokyonight&hide_border=true" alt="Regine's GitHub Stats" />
@@ -65,7 +65,7 @@ I am an **Bachelor of Science in Computer Science** at **Tangub City Global Coll
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="mailto:tayrusregine21@gmail.com">
@@ -82,4 +82,4 @@ I am an **Bachelor of Science in Computer Science** at **Tangub City Global Coll
   <img src="https://komarev.com/ghpvc/?username=reginetayrus&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">⭐ <em>"Technology is best when it brings people together."</em> ⭐</p>
+<p align="center"> <em>"Technology is best when it brings people together."</em> </p>
