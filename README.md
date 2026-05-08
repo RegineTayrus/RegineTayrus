@@ -8,7 +8,7 @@
 
  About Me
 
-I am an **Information Technology student** at **Tangub City Global College** who loves technology and enjoys creating simple, meaningful applications. I am hardworking, eager to learn, and passionate about using technology to solve everyday problems in my community.
+I am an **Bachelor of Science in Computer Science** at **Tangub City Global College** who loves technology and enjoys creating simple, meaningful applications. I am hardworking, eager to learn, and passionate about using technology to solve everyday problems in my community.
 
 - 🎓 **School:** Tangub City Global College
 - 📍 **Location:** Tangub City, Philippines 🇵🇭
