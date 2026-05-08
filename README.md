@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Regine Mae Tayrus 👋</h1>
+<h1 align="center">I'm Regine Mae Tayrus 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=IT+Student+%F0%9F%93%9A;Aspiring+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+ About Me
 
 I am an **Information Technology student** at **Tangub City Global College** who loves technology and enjoys creating simple, meaningful applications. I am hardworking, eager to learn, and passionate about using technology to solve everyday problems in my community.
 
